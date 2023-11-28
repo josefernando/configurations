@@ -1,0 +1,6 @@
+Incluir  usuário:  
+    useradd <username> (esse comando não cria o diretório home)
+        use "-m" para criar o diretório home:
+    useradd -m <username>
+Atribuir senha ao usuário:
+    passwd <username>
